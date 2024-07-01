@@ -18,7 +18,7 @@
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phân tích thiết kế quy trình nghiệp vụ doanh nghiệp
 * **Mã môn học:** EC201
-* **Mã lớp:** EC201.O21
+* **Mã lớp:** EC201.O22
 * **Năm học:** HK2 (2023 - 2024)
 * **Giảng viên**: Trình Trọng TÍn
 

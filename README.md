@@ -20,7 +20,7 @@
 * **Mã môn học:** EC201
 * **Mã lớp:** EC201.O22
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: Trình Trọng TÍn
+* **Giảng viên**: Trình Trọng Tín
 
 # ĐỒ ÁN CUỐI KÌ
 * **Đề tài:** Tìm hiểu Quy trình nghiệp vụ Công ty dược phẩm Pharmacity

@@ -12,9 +12,6 @@
 | ------ |:-------------:| ----------------------:|----------:|-------------------------:
 | 1      | 21522456      | Phạm Phố               |Nhóm trưởng|21522456@gm.uit.edu.vn   |
 | 2      | 20521353      | Nguyễn Văn Hoành       |Thành viên |20521353@gm.uit.edu.vn   |
-| 3      | 20521835      | Nguyễn Ngọc Sinh       |Thành viên |20521835@gm.uit.edu.vn   |
-| 4      | 21522473      | Nguyễn Hoàng Phúc      |Thành viên |21522473@gm.uit.edu.vn   |
-| 5      | 22520599      | Nguyễn Minh Kha        |Thành viên |22520599@gm.uit.edu.vn   |
 
 
 

@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": " Tiến hành gửi sán phẩm kiểm đến bộ phận kiểm tra ",
+      "label": "Text view",
+      "type": "text",
+      "layout": {
+        "row": null,
+        "columns": null
+      },
+      "id": "Field_02sig3q",
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "Form_0h91bxl",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

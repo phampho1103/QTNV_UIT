@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Kết quả quyết định giải pháp ",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1ik5hrf",
+        "columns": null
+      },
+      "id": "Field_0h5qqnq",
+      "key": "ketquagiaiphap"
+    }
+  ],
+  "type": "default",
+  "id": "kqgp",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

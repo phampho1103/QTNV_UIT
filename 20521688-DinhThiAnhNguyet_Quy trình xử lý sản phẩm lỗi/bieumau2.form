@@ -1,0 +1,103 @@
+{
+  "components": [
+    {
+      "text": "# Phiếu kiểm tra BM-KT-011",
+      "label": "Text view",
+      "type": "text",
+      "layout": {
+        "row": "Row_1f7cknd",
+        "columns": null
+      },
+      "id": "Field_1vm6op1"
+    },
+    {
+      "label": "Mã sản phẩm, đơn hàng",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0tgzia3",
+        "columns": null
+      },
+      "id": "Field_0l018la",
+      "key": "masp"
+    },
+    {
+      "label": "Ngày lập",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1vo4n6w",
+        "columns": null
+      },
+      "id": "Field_052tpx0",
+      "key": "ngaylap"
+    },
+    {
+      "text": "Tình trạng sản phẩm, đơn hàng",
+      "label": "Text view",
+      "type": "text",
+      "layout": {
+        "row": "Row_153lt0e",
+        "columns": null
+      },
+      "id": "Field_02eqc2d"
+    },
+    {
+      "label": "Thiếu thuốc",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0zjtf29",
+        "columns": null
+      },
+      "id": "Field_0slfcf5",
+      "key": "thieuthuoc"
+    },
+    {
+      "label": "Tên thuốc khác hóa đơn",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_1241hdx",
+        "columns": null
+      },
+      "id": "Field_1naptaj",
+      "key": "khachoadon"
+    },
+    {
+      "label": "Thuốc bị hư, vỡ, nát",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_09p2ho8",
+        "columns": null
+      },
+      "id": "Field_1r8j9ou",
+      "key": "huvonat"
+    },
+    {
+      "label": "Lý do khác",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0rnr150",
+        "columns": null
+      },
+      "id": "Field_1ox6wzd",
+      "key": "lydokhac"
+    },
+    {
+      "label": "Số lần kiểm tra",
+      "type": "number",
+      "layout": {
+        "row": "Row_0z0796h",
+        "columns": null
+      },
+      "id": "Field_1225j64",
+      "key": "checknumber"
+    }
+  ],
+  "type": "default",
+  "id": "FormBM",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.23.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 16
+}

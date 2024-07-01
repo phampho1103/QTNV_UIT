@@ -1,0 +1,54 @@
+{
+  "components": [
+    {
+      "label": "Tên Khách Hàng",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1ugyydk",
+        "columns": null
+      },
+      "id": "Field_0nofp9o",
+      "key": "tenKH",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Email",
+      "type": "textfield",
+      "layout": {
+        "row": null,
+        "columns": 7
+      },
+      "id": "Field_01fxnzn",
+      "key": "fromemail",
+      "validate": {
+        "required": true,
+        "validationType": "email"
+      },
+      "readonly": false
+    },
+    {
+      "label": "Phiếu gửi khiếu nại",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1plaijm",
+        "columns": null
+      },
+      "id": "Field_11g1we0",
+      "key": "phieuKN",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "phieuKN",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Đạt",
+          "value": "dat"
+        },
+        {
+          "label": "Chưa đạt lần 1",
+          "value": "cd1"
+        },
+        {
+          "label": "Chưa đạt lần 2",
+          "value": "cd2"
+        }
+      ],
+      "label": "Xác nhận",
+      "type": "radio",
+      "layout": {
+        "row": "Row_1ey0nkp",
+        "columns": null
+      },
+      "id": "Field_0vblegv",
+      "key": "check"
+    }
+  ],
+  "type": "default",
+  "id": "check0777",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

@@ -1,0 +1,41 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Rất hài lòng",
+          "value": "rathailong"
+        },
+        {
+          "label": "Hài lòng",
+          "value": "hailong"
+        },
+        {
+          "label": "Vẫn chưa hài lòng",
+          "value": "chuahailong"
+        },
+        {
+          "label": "Tệ",
+          "value": "te"
+        }
+      ],
+      "label": "Đánh giá mức độ hài lòng của khách hàng ",
+      "type": "radio",
+      "layout": {
+        "row": "Row_1lii41n",
+        "columns": null
+      },
+      "id": "Field_0rnra7s",
+      "key": "evaluation"
+    }
+  ],
+  "type": "default",
+  "id": "evaluation",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

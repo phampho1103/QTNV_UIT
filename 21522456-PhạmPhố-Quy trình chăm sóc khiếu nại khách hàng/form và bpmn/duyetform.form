@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "Người gửi",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1h2ievl",
+        "columns": null
+      },
+      "id": "Field_0kgn1o2",
+      "key": "nguoigui"
+    },
+    {
+      "label": "Người duyệt ",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1h2ievl",
+        "columns": null
+      },
+      "id": "Field_0stbtis",
+      "key": "nguoiduyet"
+    }
+  ],
+  "type": "default",
+  "id": "duyetform",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Đặc biệt hay Cần thiết",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0zxks48",
+        "columns": null
+      },
+      "id": "Field_1x81jp8",
+      "key": "TH"
+    }
+  ],
+  "type": "default",
+  "id": "TH4999999",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

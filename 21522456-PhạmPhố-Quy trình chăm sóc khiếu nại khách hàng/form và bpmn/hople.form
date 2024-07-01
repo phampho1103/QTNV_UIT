@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Hợp lệ ",
+          "value": "yes"
+        },
+        {
+          "label": "Không hợp lệ",
+          "value": "no"
+        }
+      ],
+      "label": "Hợp lệ ?",
+      "type": "radio",
+      "layout": {
+        "row": "Row_1dwvmep",
+        "columns": null
+      },
+      "id": "Field_1ljdziq",
+      "key": "HLK",
+      "defaultValue": "value"
+    }
+  ],
+  "type": "default",
+  "id": "HLK",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

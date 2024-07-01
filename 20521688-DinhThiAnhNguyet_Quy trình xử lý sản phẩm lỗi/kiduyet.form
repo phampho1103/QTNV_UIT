@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Ok",
+          "value": "value"
+        }
+      ],
+      "label": "Kí duyệt",
+      "type": "checklist",
+      "layout": {
+        "row": "Row_118m2r2",
+        "columns": null
+      },
+      "id": "Field_1a0fx1f",
+      "key": "checklist_fjsdn5"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0o19v41",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}

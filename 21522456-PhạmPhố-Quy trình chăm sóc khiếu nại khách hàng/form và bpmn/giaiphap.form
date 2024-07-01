@@ -1,0 +1,26 @@
+{
+  "components": [
+    {
+      "label": "Giải pháp ",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0iev9k4",
+        "columns": null
+      },
+      "id": "Field_1kjpx0k",
+      "key": "giaiphap",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "giaiphap",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}
